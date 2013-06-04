@@ -1,0 +1,9 @@
+--- 
+cursor_positions: 
+  - :path: Gemfile
+    :cursor_offset: 308
+    :timestamp: 2013-06-04 16:36:06 -03:00
+  - :path: Gemfile.original
+    :cursor_offset: 31
+    :timestamp: 2013-06-04 16:36:06 -03:00
+files_to_retain: 0
